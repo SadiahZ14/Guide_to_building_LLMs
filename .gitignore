@@ -118,3 +118,6 @@ output/
 # Specific to your project
 # Uncomment if you want to ignore the dataset file
 # the-verdict.txt 
+
+# Hide folder
+in_progress/
